@@ -62,7 +62,6 @@ Este readme documenta o sistema de clientes e serviços desenvolvido em Django. 
 O projeto está organizado da seguinte forma:
 
 * `clientes/`:
-    * `forms.py`: contém o formulário de cadastro de clientes
     * `models.py`: define os modelos de dados para clientes e carros
     * `views.py`: contém as views para gerenciamento de clientes e carros
     * `urls.py`: define as URLs para acesso às views de clientes e carros
