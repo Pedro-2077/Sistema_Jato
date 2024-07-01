@@ -4,9 +4,9 @@
 
 Este readme documenta o sistema de clientes e serviços desenvolvido em Django. O sistema permite cadastrar, atualizar e excluir clientes, além de cadastrar e gerenciar seus carros. Também é possível cadastrar novos serviços e listar os serviços já cadastrados.
 
-div align="center"
+<div> align="center"
 img src="https://github.com/Pedro-2077/Sistema_Jato/assets/139086553/d0b9dd0a-23db-4e54-a834-83099cd45697" width="500px" 
-/div
+</div>
 
 **2. Tecnologias Utilizadas**
 
