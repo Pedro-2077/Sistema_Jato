@@ -16,7 +16,7 @@ Este readme documenta o sistema de clientes e serviços desenvolvido em Django. 
 <br>
 
 <div align="center">
-<img src="https://github.com/Pedro-2077/Sistema_Jato/assets/139086553/a12da954-a6dc-416d-be63-28786bad000f" width="1000px"> 
+<img src="https://github.com/Pedro-2077/Sistema_Jato/assets/139086553/7b67fc06-237b-4620-b596-78a44af57183" width="1000px"> 
 </div>
 
 <br><br>
